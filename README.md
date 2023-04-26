@@ -3,8 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whereispumpkin&label=Profile%20views&color=0e75b6&style=flat" alt="whereispumpkin" /> </p>
 
 
-- 💬 Ask me about **React**
-
 - 📫 How to reach me **sgogr2021@agruni.edu.ge**
 
 <h3 align="left">Connect with me:</h3>
